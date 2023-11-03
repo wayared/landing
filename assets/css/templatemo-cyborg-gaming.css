@@ -97,7 +97,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-weight: 700;
 }
 
@@ -108,7 +108,7 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  color: #e0e0e0;
+  color: #cac7c7;
 }
 
 img {
@@ -143,12 +143,12 @@ p {
 
 ::selection {
   background: #6A00FF;
-  color: #e0e0e0;
+  color: #cac7c7;
 }
 
 ::-moz-selection {
   background: #6A00FF;
-  color: #e0e0e0;
+  color: #cac7c7;
 }
 
 .templatemo-item {
@@ -158,7 +158,7 @@ p {
 
 .main-button a {
   font-size: 14px;
-  color: #e0e0e0;
+  color: #cac7c7;
   background-color: #6A00FF;
   padding: 12px 30px;
   display: inline-block;
@@ -172,7 +172,7 @@ p {
 }
 
 .main-button a:hover {
-  background-color: #e0e0e0;
+  background-color: #cac7c7;
   color: #6A00FF;
 }
 
@@ -193,8 +193,8 @@ p {
 }
 
 .main-border-button a:hover {
-  border-color: #e0e0e0;
-  background-color: #e0e0e0;
+  border-color: #cac7c7;
+  background-color: #cac7c7;
   color: #6A00FF;
 }
 
@@ -221,7 +221,7 @@ section {
 }
 
 .heading-section h4 em {
-  color: #e0e0e0;
+  color: #cac7c7;
   font-style: normal;
   text-decoration: underline;
 }
@@ -335,7 +335,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #e0e0e0 !important;
+  background-color: #cac7c7 !important;
   height: 70px!important;
   position: fixed!important;
   top: 0!important;
@@ -484,13 +484,13 @@ Header Style
 
 .header-area .main-nav .nav li:last-child:hover a,
 .header-area .main-nav .nav li:last-child a.active {
-  color: #e0e0e0 !important;
+  color: #cac7c7 !important;
   background-color: #6A00FF !important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #e0e0e0;
+  color: #cac7c7;
   opacity: 1;
 }
 
@@ -619,7 +619,7 @@ Header Style
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #e0e0e0;
+  color: #cac7c7;
 }
 
 @media (max-width: 1200px) {
@@ -709,7 +709,7 @@ Header Style
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #e0e0e0;
+    background: #cac7c7;
     border-bottom: 1px solid #eee;
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -719,11 +719,11 @@ Header Style
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #e0e0e0 !important;
+    background: #cac7c7 !important;
     color: #1e1e1e !important;
   }
   .header-area .main-nav .nav li a:hover {
-    background: #e0e0e0 !important;
+    background: #cac7c7 !important;
     color: #6A00FF!important;
   }
   .header-area .main-nav .nav li:last-child a img {
@@ -783,7 +783,7 @@ Banner Style
 
 .main-banner h6 {
   font-size: 20px;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-weight: 400;
   margin-bottom: 25px;
 }
@@ -851,12 +851,12 @@ Most Popular Style
 
 .most-popular .item ul li {
   text-align: right;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
 }
 
 .most-popular .item ul li:first-child i {
-  color: yellow;
+  color: #00E5FF;
 }
 
 .most-popular .item ul li:last-child i {
@@ -943,12 +943,12 @@ Footer Style
 footer p {
   text-align: center;
   padding: 30px 0px;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-weight: 300;
 }
 
 footer p a {
-  color: #e0e0e0;
+  color: #cac7c7;
   transition: all .3s;
 }
 
@@ -992,7 +992,7 @@ Featured Games Style
 .featured-games .item .thumb .hover-effect h6 {
   background-color: rgba(31,33,34,0.95);
   display: inline-block;
-  color: #ec6090;
+  color: #6A00FF;
   font-weight: 600;
   font-size: 14px;
   padding: 10px 20px;
@@ -1024,16 +1024,16 @@ Featured Games Style
 
 .featured-games .item ul li {
   text-align: right;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
 }
 
 .featured-games .item ul li:first-child i {
-  color: yellow;
+  color: #00E5FF;
 }
 
 .featured-games .item ul li:last-child i {
-  color: #6A00FF;
+  color: #a64aff;
 }
 
 .featured-games .owl-nav {
@@ -1099,7 +1099,7 @@ Featured Games Style
 }
 
 .top-downloaded ul li span {
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 15px;
   margin-right: 10px;
 }
@@ -1207,7 +1207,7 @@ Live Stream Style
   background-color: rgba(236, 96, 144, 0.9);
   padding: 5px 10px;
   border-radius: 23px;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
   right: 15px;
   top: 15px;
@@ -1229,7 +1229,7 @@ Live Stream Style
   background-color: rgba(236, 96, 144, 0.9);
   padding: 5px 10px;
   border-radius: 23px;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
 }
 
@@ -1238,7 +1238,7 @@ Live Stream Style
 }
 
 .live-stream span i {
-  color: #e0e0e0;
+  color: #cac7c7;
   background-color: #6A00FF;
   border-radius: 50%;
   font-size: 12px;
@@ -1287,7 +1287,7 @@ Featured Banner Style
   transform: translate(-23px, -23px);
   width: 46px;
   height: 46px;
-  background-color: #e0e0e0;
+  background-color: #cac7c7;
   border-radius: 50%;
   display: inline-block;
   text-align: center;
@@ -1342,17 +1342,17 @@ Game Details Style
 }
 
 .game-details .content .left-info ul li {
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
   margin-bottom: 3px;
 }
 
 .game-details .content .left-info ul li:first-child i {
-  color: yellow;
+  color: #00E5FF;
 }
 
 .game-details .content .left-info ul li:last-child i {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .game-details .content .right-info {
@@ -1367,7 +1367,7 @@ Game Details Style
   width: 23%;
   text-align: center;
   font-size: 14px;
-  color: #e0e0e0;
+  color: #cac7c7;
 }
 
 .game-details .content .right-info ul li i {
@@ -1376,11 +1376,11 @@ Game Details Style
 }
 
 .game-details .content .right-info ul li:first-child i {
-  color: yellow;
+  color: #00E5FF;
 } 
 
 .game-details .content .right-info ul li i {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .game-details .main-border-button {
@@ -1437,13 +1437,13 @@ Other Related Style
 }
 
 .other-games ul li {
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
   margin-bottom: 3px;
 }
 
 .other-games ul li:first-child i {
-  color: yellow;
+  color: #00E5FF;
 }
 
 .other-games ul li:last-child i {
@@ -1481,7 +1481,7 @@ Top Streamers Style
 .top-streamers ul li span {
   float: left;
   font-size: 15px;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-weight: 700;
   padding-top: 12px;
   margin-right: 10px;
@@ -1495,8 +1495,8 @@ Top Streamers Style
 }
 
 .top-streamers ul li h6 i {
-  color: #e0e0e0;
-  background-color: #ec6090;
+  color: #cac7c7;
+  background-color: #6A00FF;
   border-radius: 50%;
   font-size: 12px;
   width: 20px;
@@ -1529,7 +1529,7 @@ Profile Style
 
 .main-profile .main-info span {
   font-size: 14px;
-  color: #e0e0e0;
+  color: #cac7c7;
   background-color: #6A00FF;
   padding: 8px 20px;
   display: inline-block;
@@ -1603,7 +1603,7 @@ Profile Style
     transform: translate(-23px, -23px);
     width: 46px;
     height: 46px;
-    background-color: #e0e0e0;
+    background-color: #cac7c7;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
@@ -1622,7 +1622,7 @@ Profile Style
 
 .clips .item span {
   float: right;
-  color: #e0e0e0;
+  color: #cac7c7;
   font-size: 14px;
 }
 
