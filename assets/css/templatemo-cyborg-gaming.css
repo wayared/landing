@@ -123,13 +123,13 @@ Global Styles
 */
 html,
 body {
-  background: #1f2122;
+  background: #000000;
   font-family: 'Poppins', sans-serif;
 }
 
 body .page-content {
   margin-top: 110px;
-  background-color: #27292a;
+  background-color: #161616;
   padding: 60px;
   border-radius: 23px;
 }
@@ -159,7 +159,7 @@ p {
 .main-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #e75e8d;
+  background-color: #6A00FF;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -173,14 +173,14 @@ p {
 
 .main-button a:hover {
   background-color: #fff;
-  color: #e75e8d;
+  color: #6A00FF;
 }
 
 .main-border-button a {
   font-size: 14px;
-  color: #ec6090;
+  color: #6A00FF;
   background-color: transparent;
-  border: 1px solid #ec6090;
+  border: 1px solid #6A00FF;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -214,7 +214,7 @@ section {
 }
 
 .heading-section h4 {
-  color: #ec6090;
+  color: #6A00FF;
   font-size: 34px;
   text-decoration: none;
   margin-bottom: 30px;
@@ -724,13 +724,13 @@ Header Style
   }
   .header-area .main-nav .nav li a:hover {
     background: #fff !important;
-    color: #e75e8d!important;
+    color: #6A00FF!important;
   }
   .header-area .main-nav .nav li:last-child a img {
     display: none;
   }
   .header-area .main-nav .nav li:last-child a:hover {
-    color: #ec6090 !important;
+    color: #6A00FF !important;
     background-color: transparent !important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
@@ -796,7 +796,7 @@ Banner Style
 
 .main-banner h4 em {
   font-style: normal;
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 /* 
@@ -860,7 +860,7 @@ Most Popular Style
 }
 
 .most-popular .item ul li:last-child i {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .most-popular .main-button {
@@ -953,7 +953,7 @@ footer p a {
 }
 
 footer p a:hover {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 /* 
@@ -1033,7 +1033,7 @@ Featured Games Style
 }
 
 .featured-games .item ul li:last-child i {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .featured-games .owl-nav {
@@ -1063,7 +1063,7 @@ Featured Games Style
 .featured-games .owl-nav .owl-prev span:hover,
 .featured-games .owl-nav .owl-next span:hover {
   opacity: 1;
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .top-downloaded {
@@ -1113,7 +1113,7 @@ Featured Games Style
   height: 46px;
   text-align: center;
   line-height: 46px;
-  color: #ec6090;
+  color: #6A00FF;
   background-color: #27292a;
   border-radius: 50%;
 }
@@ -1130,7 +1130,7 @@ Featured Games Style
 
 .top-downloaded .text-button a {
   font-weight: 600;
-  color: #ec6090;
+  color: #6A00FF;
   font-size: 15px;
 }
 
@@ -1239,7 +1239,7 @@ Live Stream Style
 
 .live-stream span i {
   color: #fff;
-  background-color: #ec6090;
+  background-color: #6A00FF;
   border-radius: 50%;
   font-size: 12px;
   width: 20px;
@@ -1252,7 +1252,7 @@ Live Stream Style
 
 .live-stream span {
   font-size: 14px;
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .live-stream .down-content h4 {
@@ -1292,7 +1292,7 @@ Featured Banner Style
   display: inline-block;
   text-align: center;
   line-height: 46px;
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 /* 
@@ -1447,7 +1447,7 @@ Other Related Style
 }
 
 .other-games ul li:last-child i {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 /* 
@@ -1490,7 +1490,7 @@ Top Streamers Style
 .top-streamers ul li h6 {
   display: inline;
   font-size: 14px;
-  color: #ec6090;
+  color: #6A00FF;
   font-weight: 400;
 }
 
@@ -1566,7 +1566,7 @@ Profile Style
 .main-profile ul li span {
   float: right;
   font-weight: 500;
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .main-profile ul li:last-child {
@@ -1608,7 +1608,7 @@ Profile Style
     display: inline-block;
     text-align: center;
     line-height: 46px;
-    color: #ec6090;
+    color: #6A00FF;
 }
 
 .clips .item h4 {
@@ -1617,7 +1617,7 @@ Profile Style
 }
 
 .clips .item span i {
-  color: #ec6090;
+  color: #6A00FF;
 }
 
 .clips .item span {
