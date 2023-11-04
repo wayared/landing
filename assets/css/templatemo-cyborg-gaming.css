@@ -1392,6 +1392,23 @@ Game Details Style
   width: 100%;
 } 
 
+
+.wrapper .input-box {
+  background-color: #27292a;
+  height: 46px;
+  width: 40%;
+  border-radius: 23px;
+  border: none;
+  color: #666;
+  font-size: 16px;
+  padding: 0px 15px 0px 45px;
+  margin: 12px;
+}
+
+.wrapper{
+  text-align: center;
+}
+
 /* 
 ---------------------------------------------
 Other Related Style
@@ -1734,12 +1751,3 @@ body {
   }
 }
 
-.input-box {
-  background-color: #27292a;
-  height: 46px;
-  border-radius: 23px;
-  border: none;
-  color: #666;
-  font-size: 14px;
-  padding: 0px 15px 0px 45px;
-}
