@@ -41,6 +41,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 .clearfix:after {
   content: ".";
   display: block;
@@ -221,7 +224,7 @@ section {
 }
 
 .heading-section h4 em {
-  color: #cac7c7;
+  color: #00E5FF;
   font-style: normal;
   text-decoration: underline;
 }
