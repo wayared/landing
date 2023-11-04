@@ -1733,3 +1733,13 @@ body {
     width: 16%;
   }
 }
+
+.input-box {
+  background-color: #27292a;
+  height: 46px;
+  border-radius: 23px;
+  border: none;
+  color: #666;
+  font-size: 14px;
+  padding: 0px 15px 0px 45px;
+}
